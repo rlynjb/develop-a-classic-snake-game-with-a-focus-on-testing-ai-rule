@@ -1,0 +1,14 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "A simple Snake game with AI using HTML5 Canvas and JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  }
+}
